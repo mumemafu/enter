@@ -119,9 +119,9 @@ function startDialogue() {
               cardContainer.classList.add('card-container');
 
               const imagePaths = [
-                'img/card1.jpg',
-                'img/card2.jpg',
-                'img/card3.jpg'
+                'card1.jpg',
+                'card2.jpg',
+                'card3.jpg'
               ];
 
               imagePaths.forEach((path, index) => {
